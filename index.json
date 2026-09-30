@@ -3,7 +3,7 @@
   "addons": [
     {
       "id": "webui-alt",
-      "version": "0.4.0",
+      "version": "0.4.1",
       "label": "Alternative Web UI",
       "summary": "Alternative controller web UI. Switched on, it replaces the web UI at /; the stock UI stays at /ui/default.",
       "requires": {
@@ -11,10 +11,10 @@
           "ui-home/1"
         ]
       },
-      "url": "https://github.com/TimoJJ/htp1-addons/releases/download/webui-alt-v0.4.0/htp1-addon-webui-alt-0.4.0.tar.gz",
-      "sha256": "d19612268b306cbe9af40472c18537a1bbbaa66ad9ef13884d611305f3461f80",
-      "size": 889908
+      "url": "https://github.com/TimoJJ/htp1-addons/releases/download/webui-alt-v0.4.1/htp1-addon-webui-alt-0.4.1.tar.gz",
+      "sha256": "623aba5aaf924d993c8f2fa06a4fa5efccb19b6abc43a1e982667ef769959e46",
+      "size": 890092
     }
   ],
-  "updated": "2026-09-30T02:39:20Z"
+  "updated": "2026-09-30T02:53:52Z"
 }
