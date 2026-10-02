@@ -5,7 +5,7 @@ packages are attached to this repository's releases.
 
 | Addon | What it is |
 |---|---|
-| `webui-alt` | Alternative controller web UI. Switched on, it replaces the web UI at `/`; the stock UI stays at `/ui/default`. |
+| `webui-alt` | Modified WebUI based on the stock HTP-1 WebUI. Optimized for desktop use with the light theme. When switched on, it replaces the WebUI at `/`; the stock UI remains available at `/ui/default`. |
 
 ## Install
 
