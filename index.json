@@ -3,7 +3,7 @@
   "addons": [
     {
       "id": "webui-alt",
-      "version": "0.9.5",
+      "version": "0.9.6",
       "label": "Alternative Web UI",
       "summary": "Modified WebUI based on the stock HTP-1 WebUI. Optimized for desktop use with the light theme. When switched on, it replaces the WebUI at /; the stock UI remains available at /ui/default.",
       "requires": {
@@ -11,10 +11,10 @@
           "ui-home/1"
         ]
       },
-      "url": "https://github.com/TimoJJ/htp1-addons/releases/download/webui-alt-v0.9.5/htp1-addon-webui-alt-0.9.5.tar.gz",
-      "sha256": "7aa585ab643f47bc46d971ff7d556445206851f02f6a160a603a6cb0a758390a",
-      "size": 904205
+      "url": "https://github.com/TimoJJ/htp1-addons/releases/download/webui-alt-v0.9.6/htp1-addon-webui-alt-0.9.6.tar.gz",
+      "sha256": "dc574fe020eb03052b5003eeae9e1baa82a7e2082f34a00763cf88a3c76758e5",
+      "size": 904376
     }
   ],
-  "updated": "2026-10-02T10:24:24Z"
+  "updated": "2026-10-02T10:32:37Z"
 }
