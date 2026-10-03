@@ -20,6 +20,8 @@ The unit lists the addons from `index.json`, downloads the package from the
 release, checks its SHA-256 and installs it. `webui-alt` is off after install;
 turn its switch on and refresh the web page to replace the stock WebUI.
 
+<br>
+
 ## What `webui-alt` changes (as of version 1.0.1)
 
 The main changes over the stock WebUI, as seen by the user:
